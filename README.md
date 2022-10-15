@@ -1,3 +1,3 @@
 # Delete School
-Random thing I made while bored
-**Version** **One:**__** The**__ **First** __and__ **Last** version.
+Random thing I made while bored. 
+__**Version** **One:**__ **The**__ **First** __and__ **Last** version.
